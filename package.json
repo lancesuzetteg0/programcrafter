@@ -1,0 +1,33 @@
+{
+  "name": "programcrafter",
+  "version": "1.0.2",
+  "description": "programcrafter",
+  "type": "module",
+  "main": "programcrafter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lancesuzetteg0/programcrafter"
+  },
+  "website": "https://github.com/lancesuzetteg0/programcrafter.git",
+  "keywords": [
+    "programcrafter"
+  ],
+  "author": "lancesuzetteg0",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lancesuzetteg0/programcrafter/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/lancesuzetteg0/programcrafter#readme",
+  "dependencies": {
+    "codescriptgenius": "1.0.2",
+    "devcodeguru": "1.0.2",
+    "scriptwizard": "1.0.2" 
+  }
+}
